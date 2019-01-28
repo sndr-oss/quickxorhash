@@ -20,3 +20,15 @@ is too plebeian.
 
 The only known usage of this hash is in OneDrive for Business; consumer
 OneDrive uses SHA-1 and CRC32 for fingerprinting.
+
+## Ubuntu build and test
+```bash
+sudo apt-get install libtool automake
+cd quickxorhash/
+autoreconf -i
+./configure
+make
+./quickxorhash README.md
+
+2zLmE48j31uj3424xWNNPhCqKB4=
+```
