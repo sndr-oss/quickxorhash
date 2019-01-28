@@ -28,7 +28,6 @@ cd quickxorhash/
 autoreconf -i
 ./configure
 make
-./quickxorhash README.md
-
-2zLmE48j31uj3424xWNNPhCqKB4=
+ ./quickxorhash cli.c
+5KhRHn59xYIDPsCuvN+xY3TkK+Q=
 ```
