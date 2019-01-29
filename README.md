@@ -1,3 +1,4 @@
+Build status: [![build_status](https://travis-ci.org/sndr-oss/quickxorhash-c.svg?branch=master)](https://travis-ci.org/sndr-oss/quickxorhash-c)
 # quickxorhash
 
 quickxorhash is a C library (libqxh) implementing Microsoft's
